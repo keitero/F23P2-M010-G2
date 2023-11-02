@@ -1,7 +1,7 @@
 import random
 
 c_avg = [7, 4, 10, 5]
-c_dev = [7, 4, 10, 5]
+c_dev = [3,10,6,2]
 
 def exploreOnly() -> float:
     c1_hap = 0
